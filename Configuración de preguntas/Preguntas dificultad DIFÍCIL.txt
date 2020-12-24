@@ -1,0 +1,12 @@
+Pregunta 1:
+[...]
+Respuesta: [...]
+-----
+Pregunta 2:
+[...]
+Respuesta: [...]
+-----
+Pregunta 3:
+[...]
+Respuesta: [...]
+----- NOTA: Dejar esta línea tras la última pregunta.
